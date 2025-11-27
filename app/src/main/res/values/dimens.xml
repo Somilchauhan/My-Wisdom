@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- res/values/dimens.xml -->
+<resources>
+<dimen name="quote_text_size">18sp</dimen>
+<dimen name="quote_padding">16dp</dimen>
+<dimen name="image_quote_height">250dp</dimen>
+</resources>
